@@ -5,7 +5,7 @@ The code includes data preprocessing, model training, and prediction on new text
 
 The repository also includes a Jupyter notebook demonstrating the data analysis and model development process, as well as the resulting performance on a held-out test set.
 
-#Dependencies
+# Dependencies
 1.Python 3.6 or later
 2.TensorFlow 2.x
 3.Keras
