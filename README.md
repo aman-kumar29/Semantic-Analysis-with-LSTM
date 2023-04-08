@@ -8,11 +8,11 @@ The repository also includes a Jupyter notebook demonstrating the data analysis 
 You can find the dataset used [here](https://www.kaggle.com/datasets/bittlingmayer/amazonreviews) 
 
 # Dependencies
-1.Python 3.6 or later
-2.TensorFlow 2.x
-3.Keras
-4.NumPy
-5.Pandas
-6.NLTK
-7.Matplotlib
+##### 1. Python 3.6 or later
+##### 2. TensorFlow 2.x
+##### 3. Keras
+##### 4. NumPy
+##### 5. Pandas
+##### 6. NLTK
+##### 7. Matplotlib
 
